@@ -11,6 +11,6 @@ Electrical & Electronic Engineer having two years’ work experience with Window
 
 #### Global Management Trainee <br /> Expeditors International (India) Pvt. Ltd.
 #### Executive - Admin & IS <br /> Expeditors (Bangladesh) Ltd.
-
+#### Technical Services Officer <br /> EMEM Systems Ltd.
 
 
