@@ -1,9 +1,7 @@
 ## ahsan.arnab@gmail.com 
 ### +8801920700800 
 
-You can use the [editor on GitHub](https://github.com/ArnabAhsan/ArnabAhsan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Electrical & Electronic Engineer having two years’ work experience with Windows & UNIX based servers and IP networks. Experienced with an international service organization with prior involvement in humanitarian services.
 
 ### Markdown
 
