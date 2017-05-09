@@ -4,11 +4,11 @@ Electrical & Electronic Engineer having two years’ work experience with Window
 
 ### Academic background
 
-##### BSc. in Electrical and Electronic Engineering (2011 - 2015) <br /> American International University-Bangladesh (AIUB) <br /> CGPA-3.78/4.00
+##### BSc. in Electrical and Electronic Engineering <br /> American International University-Bangladesh (AIUB) <br /> CGPA-3.78/4.00
 
 ### Professional Experience
 
-##### Global Management Trainee <br /> Expeditors International (India) Pvt. Ltd.
+##### Global Management Trainee <br /> Expeditors International 
 ##### Executive - Admin & IS <br /> Expeditors (Bangladesh) Ltd.
 ##### Technical Services Officer <br /> EMEM Systems Ltd.
 
