@@ -5,7 +5,7 @@ Electrical & Electronic Engineer having two years’ work experience with Window
 
 ### Academic background
 
-##### BSc. in Electrical and Electronic Engineering (2011 - 2015) <br /> American International University-Bangladesh (AIUB) <br /> CGPA-3.78/4.00
+#### BSc. in Electrical and Electronic Engineering (2011 - 2015) <br /> American International University-Bangladesh (AIUB) <br /> CGPA-3.78/4.00
 
 ### Professional Experience
 
