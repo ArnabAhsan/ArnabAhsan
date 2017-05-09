@@ -5,7 +5,7 @@ Electrical & Electronic Engineer having two years’ work experience with Window
 
 ### Academic background
 
-BSc. in Electrical and Electronic Engineering (2011 - 2015)
+{BSc. in Electrical and Electronic Engineering (2011 - 2015)}
 American International University-Bangladesh (AIUB)
 CGPA – 3.78/4.00 (High Distinction in Graduating Batch)
 Awards – Performance Based Scholarship; 75% of Tuition
