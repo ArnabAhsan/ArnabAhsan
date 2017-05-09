@@ -1,4 +1,4 @@
-## ahsan.arnab@gmail.com ### +8801920700800 
+## ahsan.arnab@gmail.com 
 
 Electrical & Electronic Engineer having two years’ work experience with Windows & UNIX based servers and IP networks. Experienced with an international service organization with prior involvement in humanitarian services.
 
