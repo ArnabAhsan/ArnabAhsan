@@ -12,4 +12,16 @@ Electrical & Electronic Engineer having two years’ work experience with Window
 ##### Executive - Admin & IS <br /> Expeditors (Bangladesh) Ltd.
 ##### Technical Services Officer <br /> EMEM Systems Ltd.
 
+### Research Experience
 
+##### Undergraduate Thesis: "Characteristic Optimization And Comparison Between CNFET And GNRFET Based Circuit Technology” 
+##### Undergraduate Project: “Autonomous Line Following Robot”
+
+### Key Skills
+
+##### Undergraduate Thesis: "Characteristic Optimization And Comparison Between CNFET And GNRFET Based Circuit Technology” 
+##### ▪ Computer Skills: Windows Server 2012, Putty, Microsoft Office Word, Excel, PowerPoint, Outlook, Lync, Visio, AutoCAD, Panasonic PBX Consol, Teamviewer, Lotus Notes
+##### ▪ Circuit Simulation: PSPICE, Proteus, Microwind, DSCH, CadSoft Eagle PCB Design
+##### ▪ Programming Language: C, C++, HSPICE, MATLAB, Java, HTML
+##### ▪ Hardware: Experience working with PCB board, Arduino, Raspberry Pi, Oracle Servers
+##### ▪ Language Proficiency: Fluent in English (IELTS score: 7.5/9), Bengali & Hindi
