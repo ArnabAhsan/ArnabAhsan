@@ -11,12 +11,12 @@ Electrical & Electronic Engineer having two years’ work experience with Window
 ##### ▪ Technical Services Officer <br /> EMEM Systems Ltd.
 
 ## Research Experience
-#### ▪ Undergraduate Thesis: <br /> ##### "Characteristic Optimization And Comparison Between CNFET And GNRFET Based Circuit Technology” 
-#### ▪ Undergraduate Project: <br /> ##### “Autonomous Line Following Robot”
+#### ▪ Undergraduate Thesis: <br /> "Characteristic Optimization And Comparison Between CNFET And GNRFET Based Circuit Technology” 
+#### ▪ Undergraduate Project: <br /> “Autonomous Line Following Robot”
 
 ## Key Skills
-#### ▪ Computer Skills: <br /> ##### Windows Server 2012, Putty, Microsoft Office Word, Excel, PowerPoint, Outlook, Lync, Visio, AutoCAD, Panasonic PBX Consol, Teamviewer, Lotus Notes
-#### ▪ Circuit Simulation: <br /> ##### PSPICE, Proteus, Microwind, DSCH, CadSoft Eagle PCB Design
-#### ▪ Programming Language: <br /> ##### C, C++, HSPICE, MATLAB, Java, HTML
-#### ▪ Hardware: <br /> ##### Experience working with PCB board, Arduino, Raspberry Pi, Oracle Servers
-#### ▪ Language Proficiency: <br /> ##### Fluent in English (IELTS score: 7.5/9), Bengali & Hindi
+#### ▪ Computer Skills: <br /> Windows Server 2012, Putty, Microsoft Office Word, Excel, PowerPoint, Outlook, Lync, Visio, AutoCAD, Panasonic PBX Consol, Teamviewer, Lotus Notes
+#### ▪ Circuit Simulation: <br /> PSPICE, Proteus, Microwind, DSCH, CadSoft Eagle PCB Design
+#### ▪ Programming Language: <br /> C, C++, HSPICE, MATLAB, Java, HTML
+#### ▪ Hardware: <br /> Experience working with PCB board, Arduino, Raspberry Pi, Oracle Servers
+#### ▪ Language Proficiency: <br /> Fluent in English (IELTS score: 7.5/9), Bengali & Hindi
