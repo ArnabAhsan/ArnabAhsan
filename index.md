@@ -19,4 +19,4 @@ Electrical & Electronic Engineer having two years’ work experience with Window
 ##### ▪ Circuit Simulation: <br /> PSPICE, Proteus, Microwind, DSCH, CadSoft Eagle PCB Design
 ##### ▪ Programming Language: <br /> C, C++, HSPICE, MATLAB, Java, HTML
 ##### ▪ Hardware: <br /> Experience working with PCB board, Arduino, Raspberry Pi, Oracle Servers
-##### ▪ Language Proficiency: <br /> Fluent in English (IELTS score: 7.5/9), Bengali & Hindi
+##### ▪ Language Proficiency: <br /> Fluent in English, Bengali & Hindi
